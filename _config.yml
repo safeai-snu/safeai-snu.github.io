@@ -6,8 +6,10 @@
 # --- Required options --- #
 
 # Name of website
+name: safeai-snu
 title: My Website
-
+url:"https://safeai-snu.github.io/"
+baseurl:""
 # Your name to show in the footer
 author: Some Person
 
